@@ -6,7 +6,7 @@ We want gRPC to be the universal remote procedure call protocol for all
 computing platforms and paradigms, so while these are our ideas of what we
 think would make good projects for the summer, we're eager to hear your ideas
 and proposals as well.
-[Try us out](https://github.com/grpc/grpc/blob/master/CONTRIBUTING.md) and get
+[Try us out](https://github.com/grpc/grpc/blob/master/CONTRIBUTING.md) and getы
 to know the gRPC code and team!
 
 **Required skills for all projects:** git version control, collaborative
